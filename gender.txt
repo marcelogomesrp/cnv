@@ -1,0 +1,2 @@
+Amostra1	Male
+Amostra2	Male
